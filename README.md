@@ -55,10 +55,6 @@ It also achieved the highest precision, recall, and F1-score for the churn class
 The analysis showed that customer characteristics and service-related factors can be useful in predicting customer churn.
 The final model can help telecommunications companies identify customers who may be at risk of leaving and potentially take targeted retention actions.
 
-## Key Findings
-The analysis showed that customer characteristics and service-related factors can be useful in predicting customer churn.
-The final model can help telecommunications companies identify customers who may be at risk of leaving and potentially take targeted retention actions.
-
 ## Technologies Used
 1. Python
 2. Pandas
